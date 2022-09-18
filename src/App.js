@@ -46,6 +46,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>test</h1>
       <Cart removeItem = {removeItem}    cartOpen={cartOpen} products={carItems} toggleCart={toggleCart} />
       <Navbar/>
       <Header items = {carItems} toggleCart={toggleCart} />

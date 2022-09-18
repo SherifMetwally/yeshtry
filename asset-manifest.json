@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yeshtry/static/css/main.d48fa059.css",
+    "main.js": "/yeshtry/static/js/main.38c29c89.js",
+    "static/css/455.9c11b3bc.chunk.css": "/yeshtry/static/css/455.9c11b3bc.chunk.css",
+    "static/js/455.5b6fb971.chunk.js": "/yeshtry/static/js/455.5b6fb971.chunk.js",
+    "static/css/828.c7ae245f.chunk.css": "/yeshtry/static/css/828.c7ae245f.chunk.css",
+    "static/js/828.b3dfbb1d.chunk.js": "/yeshtry/static/js/828.b3dfbb1d.chunk.js",
+    "static/js/787.d87a5deb.chunk.js": "/yeshtry/static/js/787.d87a5deb.chunk.js",
+    "index.html": "/yeshtry/index.html",
+    "main.d48fa059.css.map": "/yeshtry/static/css/main.d48fa059.css.map",
+    "main.38c29c89.js.map": "/yeshtry/static/js/main.38c29c89.js.map",
+    "455.9c11b3bc.chunk.css.map": "/yeshtry/static/css/455.9c11b3bc.chunk.css.map",
+    "455.5b6fb971.chunk.js.map": "/yeshtry/static/js/455.5b6fb971.chunk.js.map",
+    "828.c7ae245f.chunk.css.map": "/yeshtry/static/css/828.c7ae245f.chunk.css.map",
+    "828.b3dfbb1d.chunk.js.map": "/yeshtry/static/js/828.b3dfbb1d.chunk.js.map",
+    "787.d87a5deb.chunk.js.map": "/yeshtry/static/js/787.d87a5deb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48fa059.css",
+    "static/js/main.38c29c89.js"
+  ]
+}

@@ -6,7 +6,7 @@ export default function ProductCard() {
       <img
         className="product-card-image"
         alt="card1"
-        src="../images/card1.png"
+        src="./../images/card1.png"
       />
       <p className="product-card-title">
         Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -20,17 +20,17 @@ export default function ProductCard() {
         <img
           className="product-card-logo"
           alt="card1"
-          src="../images/adidas.svg"
+          src="./../images/adidas.svg"
         />
        
       </div>
       <div className="product-card-rating">
             <div className="rating-card-stars">
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/empty-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/empty-star.svg" alt="rating" />
             </div>
             <p className="rating-value">4.9 of 5</p>
            

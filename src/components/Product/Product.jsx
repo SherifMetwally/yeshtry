@@ -67,38 +67,38 @@ export default function Product(props) {
           />
           <div className="product--corausal">
             <span className="product--arrows">
-              <img className="" src="../images/lt.png" alt="alt-1" />
+              <img className="" src="./../images/lt.png" alt="alt-1" />
             </span>
             <div className="product-chrousal-images">
               <img
                 className="product--thumbnail"
-                src="../images/product/1.png"
+                src="./../images/product/1.png"
                 alt="alt-1"
               />
               <img
                 className="product--thumbnail"
-                src="../images/product/2.png"
+                src="./../images/product/2.png"
                 alt="alt-2"
               />
               <img
                 className="product--thumbnail"
-                src="../images/product/3.png"
+                src="./../images/product/3.png"
                 alt="alt-3"
               />
               <img
                 className="product--thumbnail"
-                src="../images/product/4.png"
+                src="./../images/product/4.png"
                 alt="alt-4"
               />
             </div>
             <span className="product--arrows">
-              <img className="" src="../images/gt.png" alt="alt-1" />
+              <img className="" src="./../images/gt.png" alt="alt-1" />
             </span>
           </div>
         </div>
         <div className="product-details">
           <img
-            src="../images/adidas.svg"
+            src="./../images/adidas.svg"
             className="product--logo"
             alt="product-brand"
           />
@@ -108,11 +108,11 @@ export default function Product(props) {
           <h5 className="product-category">Men</h5>
           <div className="product-rating">
             <div className="rating-stars">
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/filled-star.svg" alt="rating" />
-              <img src="../images/empty-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/filled-star.svg" alt="rating" />
+              <img src="./../images/empty-star.svg" alt="rating" />
             </div>
             <p className="rating-value">{product.rating}</p>
             <p className="rating-users">{product.noOfRatings}</p>
@@ -144,12 +144,12 @@ export default function Product(props) {
           <div className="product-options">
             <img
               className="product-color product-color-selected"
-              src="../images/color1.png"
+              src="./../images/color1.png"
               alt="rating"
             />
             <img
               className="product-color"
-              src="../images/color2.png"
+              src="./../images/color2.png"
               alt="rating"
             />
           </div>

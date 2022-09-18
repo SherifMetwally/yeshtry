@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer">
         <div className="container footer-container">
           <div className="footer-about">
-            <img src="../images/logo-yello.svg" alt="logo-yellow" />
+            <img src="./../images/logo-yello.svg" alt="logo-yellow" />
             <p>
               Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
               nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
@@ -43,22 +43,22 @@ export default function Footer() {
               </div>
               <div className="footer-social-media">
                 <div>
-                  <img src="../images/social-media/fb.svg" alt="facebook" />
+                  <img src="./../images/social-media/fb.svg" alt="facebook" />
                   /YESHTERY
                 </div>
                 <div>
                   <img
-                    src="../images/social-media/linkedin.svg"
+                    src="./../images/social-media/linkedin.svg"
                     alt="linkedin"
                   />
                   /YESHTERY
                 </div>
                 <div>
-                  <img src="../images/social-media/ig.svg" alt="instagram" />
+                  <img src="./../images/social-media/ig.svg" alt="instagram" />
                   /YESHTERY
                 </div>
                 <div>
-                  <img src="../images/social-media/twitter.svg" alt="twitter" />
+                  <img src="./../images/social-media/twitter.svg" alt="twitter" />
                   /YESHTERY
                 </div>
               </div>
@@ -71,12 +71,12 @@ export default function Footer() {
         <p>© 2021 yeshtery, all rights reserved.</p>
         </div>
         <div className="footer-payment">
-        <img src="../images/payment/cod.png" alt="cash on delivery" />
-        <img src="../images/payment/visa.png" alt="visa" />
-        <img src="../images/payment/mastercard.png" alt="mastercard" /> 
+        <img src="./../images/payment/cod.png" alt="cash on delivery" />
+        <img src="./../images/payment/visa.png" alt="visa" />
+        <img src="./../images/payment/mastercard.png" alt="mastercard" /> 
         </div>
         <div className="footer-powered-by">
-        <label>Powered By  </label> <img src="../images/powered-by.png" alt="mastercard" /> 
+        <label>Powered By  </label> <img src="./../images/powered-by.png" alt="mastercard" /> 
         </div>
       </div>
     </footer>

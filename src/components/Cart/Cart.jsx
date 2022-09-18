@@ -12,7 +12,7 @@ export default function Cart(props) {
     }
   return (
     <div className={cartClasses}>
-      <img className="close-icon pointer" onClick={props.toggleCart} src="../images/remove.png" alt="" />
+      <img className="close-icon pointer" onClick={props.toggleCart} src={process.env.PUBLIC_URL + "images/remove.png"} alt="" />
       <h3 className="purple">My Cart</h3>
       <h4 className="cart-summary-title "> Cart Summary</h4>
       <div className="cart-summary">

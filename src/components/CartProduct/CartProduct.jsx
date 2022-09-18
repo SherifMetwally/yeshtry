@@ -4,7 +4,7 @@ export default function CartProduct(props) {
     console.log(props)
     return (
         <div className='cart-product'>
-            <img src='../images/product/main.jpg' alt='.'/>
+            <img src={props.product.imageUrl} alt='.'/>
             <div className='cart-product-details'>
             <p>{props.product.title}</p>
             <h6>Quantity :{props.product.quantity}</h6>

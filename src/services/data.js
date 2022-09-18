@@ -6,7 +6,7 @@ export default [
         noOfRatings: "22 Rates",
         currentPrice: 9999,
         oldPrice: 14200,
-        imageUrl: "../images/product/main.jpg"
+        imageUrl: "./images/product/main.jpg"
         
     } 
 ]
